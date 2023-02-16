@@ -25,8 +25,7 @@ To use this app, you will need the following:
 3. Build the project.
 
 ### Serve app with different Azure account
-1. In the appsettings.json file, replace the placeholders with your Azure AD B2C tenant information.
-2. In the Startup.cs file, replace the placeholders with your Azure AD B2C policy information.
+In the appsettings.json file, replace the placeholders with your Azure AD B2C tenant information.
 
 ### Usage
 To use the app, follow these steps:
